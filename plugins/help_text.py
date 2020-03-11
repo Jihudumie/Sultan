@@ -82,10 +82,10 @@ async def upgrade(bot, update):
         disable_web_page_preview=True
     )
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["jihaad"]))
+@pyrogram.Client.on_message(pyrogram.Filters.command(["hamis"]))
 async def upgrade(bot, update):
     # logger.info(update)
-    TRChatBase(update.from_user.id, update.text, "/jihaad")
+    TRChatBase(update.from_user.id, update.text, "/hamis")
     await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.HAMIS_MAJIBU,

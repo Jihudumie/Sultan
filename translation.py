@@ -1,18 +1,16 @@
 class Translation(object):
-    START_TEXT = """Hello,
-This is a Telegram URL Upload Bot!
-
-Soma
+    START_TEXT = """Karibu,
+Katika Makitaba 
+Soma 👇vitabu kwa kufungua hapo
 <a
-href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
+href='https://telegra.ph/i-love-islam-01-24'>VITABU 📚 👀</a>
 
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+<b>Mimi ni bot Bado niko katika Matengenezo</b>
 
-/help for more details..
+/help Kwa Msaada zaidi..
 
-Support Group : @Huduma
-© @Twuwbaa"""
+Kwa elimu zaidi  👉@KhamisBot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "No Plans dear. Create your own URL Bot : ➠ <a href='https://github.com/TGExplore/TG-URL-Uploader'>Clone Code</a>."

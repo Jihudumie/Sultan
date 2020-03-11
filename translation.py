@@ -20,6 +20,6 @@ Karibu 👉 @Hamisbot"""
 
 Ndugu Katika Imaan Mimi ni Bot ninaye husika na kukuelimisha Mambo kadhaa Ya Jihaad Kwa Ajili ya Allaah
 
-Kwa sasa Bado Niko Katima *MATENGENEZO* In Shaa Allah Edelea kusoma Elimu iliyopo, Karibu Katika Kheri.""
+Kwa sasa Bado Niko Katima *MATENGENEZO* In Shaa Allah Edelea kusoma Elimu iliyopo, Karibu Katika Kheri."""
     
    HAMIS_MAJIBU = "Khamis Ni mtengenezaji wa Bot Aina Mbali Mabli Wasiliana nae kwa Kazi."

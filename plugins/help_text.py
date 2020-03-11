@@ -51,6 +51,7 @@ async def start(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.START_TEXT,
+        parse_mode="html",
         reply_to_message_id=update.message_id
     )
 
@@ -62,9 +63,7 @@ async def upgrade(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.ILOVEISLAM_TEXT,
-        parse_mode="html",
         reply_to_message_id=update.message_id,
-        disable_web_page_preview=True
     )
 
 @pyrogram.Client.on_message(pyrogram.Filters.command(["jihaad, jihad"]))
@@ -74,9 +73,7 @@ async def upgrade(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.JUHUDI_TXT,
-        parse_mode="html",
         reply_to_message_id=update.message_id,
-        disable_web_page_preview=True
     )
 
 
@@ -86,8 +83,6 @@ async def upgrade(bot, update):
     TRChatBase(update.from_user.id, update.text, "/hamis")
     await bot.send_message(
         chat_id=update.chat.id,
-        text=Translation.HAMIS_MAJIBU,
-        parse_mode="html",
+        text=Translation.HAMIS_MAJIBU
         reply_to_message_id=update.message_id,
-
     )

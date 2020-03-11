@@ -44,21 +44,6 @@ async def help_user(bot, update):
     )
 
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["jihaad, jihad"]))
-async def get_me_info(bot, update):
-    # logger.info(update)
-    TRChatBase(update.from_user.id, update.text, "/jihaad")
-    chat_id = str(update.from_user.id)
-    chat_id, plan_type, expires_at = GetExpiryDate(chat_id)
-    await bot.send_message(
-        chat_id=update.chat.id,
-        text=Translation.JUHUDI,
-        parse_mode="html",
-        disable_web_page_preview=True,
-        reply_to_message_id=update.message_id
-    )
-
-
 @pyrogram.Client.on_message(pyrogram.Filters.command(["start"]))
 async def start(bot, update):
     # logger.info(update)
@@ -79,7 +64,21 @@ async def upgrade(bot, update):
         text=Translation.ILOVEISLAM_TEXT,
         parse_mode="html",
         reply_to_message_id=update.message_id,
+        disable_web_page_preview=True
     )
+
+@pyrogram.Client.on_message(pyrogram.Filters.command(["jihaad, jihad"]))
+async def upgrade(bot, update):
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/jihaad")
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.JUHUDI,
+        parse_mode="html",
+        reply_to_message_id=update.message_id,
+        disable_web_page_preview=True
+    )
+
 
 @pyrogram.Client.on_message(pyrogram.Filters.command(["hamis"]))
 async def upgrade(bot, update):
@@ -90,4 +89,5 @@ async def upgrade(bot, update):
         text=Translation.HAMIS_MAJIBU,
         parse_mode="html",
         reply_to_message_id=update.message_id,
+
     )

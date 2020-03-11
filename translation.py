@@ -36,33 +36,15 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
     
 --------
-Telegram ID: <code>{}</code>
-Plan name : Free User
-Jiunge Nasi : 🖲 @Hamisbot
+Telegram 🆔: <code>{}</code>
+Jiunge Nasi : 🖲 @HamisboBot"""
+    HELP_USER = """*Hapa ni sehemu ya Msaada*\n
 
-Support Group : @Huduma
-© @Twuwbaa"""
-    HELP_USER = """There are multiple things I can do:
-1. Send url (Link|New Name with Extension).
-2. Send Custom Thumbnail (Optional).
-3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
-   
-<b>Kama Hujaelewa kazi ya Bot hii, Na jinsi ya kuitumia, Soma Muongozo</b> 
-<a
-href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
-Utakusaidia ⇧⇧📄
+Ndugu una hitajia Msaanda?
+Tuma Shida yako Au Tatizo lolote Kupitia hapa @ViongoziBot Na Shidayako itafika Kwetu
+Kwa Idhini ya Allah Tutakusaidia In Shaa Allah.
 
-<b>➠ Create own Clone Bot : \n   ☟</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
-
---------
-Send /me to know current plan details
-
-Support Group : @Huduma
-© @Twuwbaa"""
+Nakuombea Kwa Allah Nguguyangu katika imaan Akujaalie Ujuzi na Akujaalie *Mwisho Mwema* Aamiyn"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"

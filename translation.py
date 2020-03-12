@@ -83,23 +83,33 @@ Free users only 30 request per 30 minutes.
 /upgrade or Try 1800 seconds later."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     HAMIS_MAJIBU = """Jifunze Soma Ibaada Ya Jihaad Kupitia hapa 
-https://telegra.ph/Jihaad-01-24
+<a
+href='https://telegra.ph/Jihaad-01-24'>Jihaad</a>
 
- https://telegra.ph/Jihaad-Maana-Ya-Jihaad-Na-Kuwekewa-Shariah-01-24
 
- https://telegra.ph/Khawaarij-04-16
+1. <a
+href='https://telegra.ph/Jihaad-Maana-Ya-Jihaad-Na-Kuwekewa-Shariah-01-24'>Jihaad: Maana Ya Jihaad Na Kuwekewa Shari'ah</a>
 
- https://telegra.ph/Jihaad-Ni-Waajib-01-24
+2. <a
+href='https://telegra.ph/Khawaarij-04-16'>Khawaarij</a>
 
- https://telegra.ph/Wajibu-Wa-Kuwa-Thabiti-01-24
+3. <a
+href='https://telegra.ph/Jihaad-Ni-Waajib-01-24'>Jihaad Ni Waajib</a>
 
- https://telegra.ph/Fadhila-Za-Jihaad-01-24
+4. <a
+href='https://telegra.ph/Wajibu-Wa-Kuwa-Thabiti-01-24'>Wajibu Wa Kuwa Thabiti</a>
 
-VITABU 📚 NDANI YA LINK MOJA 
-      👇
-https://telegra.ph/KUJITOA-MUHANGA-02-21
+5. <a
+href='https://telegra.ph/Fadhila-Za-Jihaad-01-24'>Fadhila Za Jihaad</a>
 
-1. nhttps://telegra.ph/AMALIYAT-ISTISHAHADIYAH--KUJITOA-MUHANGA--KWA-MUJIBU-WA-QURAN--SUNNAH--NA-KAULI-MBALI-MBALI-ZA-WANACHUONI-02-21
-2. https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21\nhttps://telegra.ph/SHARTI-ZA-KUJITOA-MUHANGA-02-21-2 .
+
+
+<a
+href='https://telegra.ph/KUJITOA-MUHANGA-02-21'>KUJITOA MUHANGA</a>
+
+1. <a
+href='https://telegra.ph/AMALIYAT-ISTISHAHADIYAH--KUJITOA-MUHANGA--KWA-MUJIBU-WA-QURAN--SUNNAH--NA-KAULI-MBALI-MBALI-ZA-WANACHUONI-02-21'>A'MALIYAT ISTISHAHADIYAH ( KUJITOA MUHANGA ) KWA MUJIBU WA QUR'AN , SUNNAH , NA KAULI MBALI MBALI ZA WANACHUONI</a>
+2. <a
+href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21\nhttps://telegra.ph/SHARTI-ZA-KUJITOA-MUHANGA-02-21-2'>SHARTI ZA KUJITOA MUHANGA :</a>
 
 <b>MWISHO Assalaam Aleykum<\b>"""

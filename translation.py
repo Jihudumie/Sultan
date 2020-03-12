@@ -1,7 +1,9 @@
 class Translation(object):
-    START_TEXT = """Jihaad imekusanya kila aina ya ibada za kiroho na kiwiliwili, kuikinai dunia, kuihama nchi na kuyahama matamanio na hii ndiyo maana ikapewa jina la ‘Uchaji Allaah’, kwani imekuja katika Hadiyth kuwa:
+    START_TEXT = """بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+Jihaad imekusanya kila aina ya ibada za kiroho na kiwiliwili, kuikinai dunia, kuihama nchi na kuyahama matamanio na hii ndiyo maana ikapewa jina la ‘Uchaji Allaah’, kwani imekuja katika Hadiyth kuwa:
 
 <b>‘Ucha Mungu wa umma wangu ni Jihaad katika njia ya Allaah.”</b>
+
 Na ndani yake mna kuitakasa nafsi, kuitakasa mali, na kumuuzia Allaah nafsi, na haya yote ni matunda ya mapenzi na imani na yakini na kuelekea kwa Allaah (Subhaanahu wa Ta’ala).
 
 NDUGU ZANGU KATIKA IMAAN MIMI NDUGU YENU NIME WATENGENEZEA ROBOT HII ILI MPATE KUJIFUNZA KWA WEPESI NA KWA WAKATI WOWOTE.
@@ -15,7 +17,8 @@ Hayo  Na Mengine Allah Atakuonyesha Hapa ➠ /hamis au ➠ /jihaad:
 
 ➠ /help Kwa Msaada zaidi..
 
-Kwa elimu zaidi  ➠ @KhamisBot"""
+Kwa elimu zaidi  
+➠ @KhamisBot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "No Plans dear. Create your own URL Bot : ➠ <a href='https://github.com/TGExplore/TG-URL-Uploader'>Clone Code</a>."
@@ -42,7 +45,8 @@ URL | filename | username | password"""
     
 --------
 Telegram 🆔: <code>{}</code>
-Jiunge Nasi : 🖲 ➠ @HamisboBot"""
+Jiunge Nasi : 
+🖲 ➠ @HamisboBot"""
     HELP_USER = """*Hapa ni sehemu ya Msaada*\n
 
 Ndugu una hitajia Msaanda?

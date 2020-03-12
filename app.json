@@ -1,5 +1,5 @@
 {
-  "name": "Mpakiaji ",
+  "name": "Sultan ",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/TGExplore/TG_URL_Uploader",
-  "repository": "https://github.com/TGExplore/TG_URL_Uploader",
+  "website": "https://github.com/Jihudumie/Sultan",
+  "repository": "https://github.com/Jihudumie/Sultan",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",

@@ -1,16 +1,21 @@
 class Translation(object):
-    START_TEXT = """Karibu,
-Katika Makitaba 
-Soma 👇vitabu kwa kufungua hapo
-<a
-href='https://telegra.ph/i-love-islam-01-24'>VITABU 📚 👀</a>
+    START_TEXT = """Jihaad imekusanya kila aina ya ibada za kiroho na kiwiliwili, kuikinai dunia, kuihama nchi na kuyahama matamanio na hii ndiyo maana ikapewa jina la ‘Uchaji Allaah’, kwani imekuja katika Hadiyth kuwa:
 
+<b>‘Ucha Mungu wa umma wangu ni Jihaad katika njia ya Allaah.”</b>
+Na ndani yake mna kuitakasa nafsi, kuitakasa mali, na kumuuzia Allaah nafsi, na haya yote ni matunda ya mapenzi na imani na yakini na kuelekea kwa Allaah (Subhaanahu wa Ta’ala).
 
-<b>Mimi ni bot Bado niko katika Matengenezo</b>
+NDUGU ZANGU KATIKA IMAAN MIMI NDUGU YENU NIME WATENGENEZEA ROBOT HII ILI MPATE KUJIFUNZA KWA WEPESI NA KWA WAKATI WOWOTE.
 
-/help Kwa Msaada zaidi..
+Gusa hapa ➠ /hamis Kupata Vitabu 📖📚 Au darsa
 
-Kwa elimu zaidi  👉@KhamisBot"""
+Mtume wa Allaah (Swalla Allaahu ‘alayhi wa sallam) amesema:
+<b>“Shahidi hahisi maumivu ya kuuliwa ila kama mmoja wenu anavyohisi maumivu ya kufinywa.”</b>
+
+Hayo  Na Mengine Allah Atakuonyesha Hapa ➠ /hamis au ➠ /jihaad:
+
+➠ /help Kwa Msaada zaidi..
+
+Kwa elimu zaidi  ➠ @KhamisBot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "No Plans dear. Create your own URL Bot : ➠ <a href='https://github.com/TGExplore/TG-URL-Uploader'>Clone Code</a>."
@@ -37,14 +42,14 @@ URL | filename | username | password"""
     
 --------
 Telegram 🆔: <code>{}</code>
-Jiunge Nasi : 🖲 @HamisboBot"""
+Jiunge Nasi : 🖲 ➠ @HamisboBot"""
     HELP_USER = """*Hapa ni sehemu ya Msaada*\n
 
 Ndugu una hitajia Msaanda?
-Tuma Shida yako Au Tatizo lolote Kupitia hapa @ViongoziBot Na Shidayako itafika Kwetu
+Tuma Shida yako Au Tatizo lolote Kupitia hapa ➠ @ViongoziBot Na Shidayako itafika Kwetu
 Kwa Idhini ya Allah Tutakusaidia In Shaa Allah.
 
-Nakuombea Kwa Allah Nguguyangu katika imaan Akujaalie Ujuzi na Akujaalie *Mwisho Mwema* Aamiyn"""
+Nakuombea Kwa Allah Nguguyangu katika imaan Akujaalie Ujuzi na Akujaalie <b>Mwisho Mwema</b> Aamiyn"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
@@ -73,4 +78,4 @@ You can use /rename command after receiving file to rename it with custom thumbn
 Free users only 30 request per 30 minutes.
 /upgrade or Try 1800 seconds later."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    HAMIS_MAJIBU = "Jifunze Soma Ibaada Ya Jihaad Kupitia hapa \nhttps://telegra.ph/Jihaad-01-24 ."
+    HAMIS_MAJIBU = "Jifunze Soma Ibaada Ya Jihaad Kupitia hapa \nhttps://telegra.ph/Jihaad-01-24\n https://telegra.ph/Jihaad-Maana-Ya-Jihaad-Na-Kuwekewa-Shariah-01-24\n https://telegra.ph/Khawaarij-04-16\n https://telegra.ph/Jihaad-Ni-Waajib-01-24\n https://telegra.ph/Wajibu-Wa-Kuwa-Thabiti-01-24\n https://telegra.ph/Fadhila-Za-Jihaad-01-24\nVITABU 📚 NDANI YA LINK MOJA \nhttps://telegra.ph/KUJITOA-MUHANGA-02-21\n\1. nhttps://telegra.ph/AMALIYAT-ISTISHAHADIYAH--KUJITOA-MUHANGA--KWA-MUJIBU-WA-QURAN--SUNNAH--NA-KAULI-MBALI-MBALI-ZA-WANACHUONI-02-21\n2. https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21\nhttps://telegra.ph/SHARTI-ZA-KUJITOA-MUHANGA-02-21-2 .\n <b>MWISHO Assalaam Aleykum<\b>  ."

@@ -45,10 +45,20 @@ Kwa elimu zaidi
 Telegram 🆔: <code>{}</code>
 Jiunge Nasi : 
 🖲 ➠ @HamisboBot"""
-    HELP_USER = """*Hapa ni sehemu ya Msaada*\n
+    HELP_USER = """<b>Hapa ni sehemu ya Msaada</b>
 
-Ndugu una hitajia Msaanda?
-Tuma Shida yako Au Tatizo lolote Kupitia hapa ➠ @ViongoziBot Na Shidayako itafika Kwetu
+🖲 <a
+href='https://telegra.ph/i-love-islam-01-24'>I LOVE ISLAM</a>
+
+Kama una Hitaji Kusoma Au Kusiliza Qur'an Tukufu.
+❖ @Furqanbot
+
+Kwa Darsa Mbali Mbali. 
+Txt 📄, Audio 🎧, Video File N.k.
+❖ @Hamisbot
+
+Kuongea Nasi Au Viongozo.
+❖ @ViongoziBot Na Shidayako itafika Kwetu
 Kwa Idhini ya Allah Tutakusaidia In Shaa Allah.
 
 Nakuombea Kwa Allah Nguguyangu katika imaan Akujaalie Ujuzi na Akujaalie <b>Mwisho Mwema</b> Aamiyn"""

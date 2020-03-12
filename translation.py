@@ -54,14 +54,14 @@ Kama una Hitaji Kusoma Au Kusiliza Qur'an Tukufu.
 ❖ @Furqanbot
 
 Kwa Darsa Mbali Mbali. 
-Txt 📄, Audio 🎧, Video File N.k.
+Txt 📄, Audio 🎧, Video & File N.k.
 ❖ @Hamisbot
 
-Kuongea Nasi Au Viongozo.
-❖ @ViongoziBot Na Shidayako itafika Kwetu
+Kuongea Nasi Au Viongozi Tuandikie ✍.
+👉 @ViongoziBot Na Shidayako itafika Kwetu
 Kwa Idhini ya Allah Tutakusaidia In Shaa Allah.
 
-Nakuombea Kwa Allah Nguguyangu katika imaan Akujaalie Ujuzi na Akujaalie <b>Mwisho Mwema</b> Aamiyn"""
+Allah Akujaalie Wepesi Katika Mambo yako na Akupe <b>Mwisho Mwema</b> Aamiyn"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"

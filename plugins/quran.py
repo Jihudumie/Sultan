@@ -37,6 +37,6 @@ async def upgrade(bot, update):
         reply_to_message_id=update.message_id,
     )
 
-@Client.on_message(Filters.command(["quraan"]))
+@Client.on_message(Filters.command(["start"]))
 async def start_text(client, message):
     await message.reply_sticker(QURAAN_TEXT, quote=True)

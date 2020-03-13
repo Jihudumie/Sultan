@@ -19,7 +19,6 @@ Hayo  Na Mengine Allah Atakuonyesha Hapa ➠ /hamis au ➠ /jihaad:
 
 Kwa elimu zaidi  
 ➠ @KhamisBot"""  
-    UPGRADE_TEXT = "Tutafanya Mabolesho In Shaa Allaah."
     CURENT_PLAN_DETAILS = """Current plan details
     
 --------

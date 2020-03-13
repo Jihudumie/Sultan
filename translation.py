@@ -83,4 +83,4 @@ href='https://telegra.ph/AMALIYAT-ISTISHAHADIYAH--KUJITOA-MUHANGA--KWA-MUJIBU-WA
 2. <a
 href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHARTI ZA KUJITOA MUHANGA :</a>"""
 
-QURAAN_TEXT = "https://telegra.ph/Tarjama-Ya-Maana-Ya-AL-QUR-AAN-AL-ADHWIYM-01-26"
+QURAAN_TEXT = "Soma hii https://telegra.ph/Tarjama-Ya-Maana-Ya-AL-QUR-AAN-AL-ADHWIYM-01-26 Quraan Tukufu"

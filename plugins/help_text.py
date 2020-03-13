@@ -79,7 +79,6 @@ async def upgrade(bot, update):
         text=Translation.QURAAN_TEXT,
         parse_mode="html",
         reply_to_message_id=update.message_id,
-        disable_web_page_preview=True
     )
 
 @pyrogram.Client.on_message(pyrogram.Filters.command(["hamis", "jihaad"]))

@@ -26,16 +26,6 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 from helper_funcs.chat_base import TRChatBase
 
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["quraan"]))
-async def upgrade(bot, update):
-    # logger.info(update)
-    TRChatBase(update.from_user.id, update.text, "/quraan")
-    await bot.send_message(
-        chat_id=update.chat.id,
-        text=Translation.QURAAN_TEXT,
-        reply_to_message_id=update.message_id,
-    )
-
 @pyrogram.Client.on_message(pyrogram.Filters.command(["hamis", "jihaad"]))
 async def upgrade(bot, update):
     # logger.info(update)
@@ -46,3 +36,7 @@ async def upgrade(bot, update):
         parse_mode="html",
         reply_to_message_id=update.message_id,
     )
+
+@Client.on_message(Filters.command(["quraan"]))
+async def start_text(client, message):
+    await message.reply_sticker(QURAAN_TEXT, quote=True)

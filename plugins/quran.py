@@ -27,7 +27,7 @@ from helper_funcs.chat_base import TRChatBase
 
 
 @pyrogram.Client.on_message(pyrogram.Filters.command(["hamis", "jihaad"]))
-async def upgrade(bot, update):
+async def hamis_majibu(hamis, majibu):
     # logger.info(update)
     TRChatBase(update.from_user.id, update.text, "/hamis")
     await bot.send_message(
@@ -37,6 +37,3 @@ async def upgrade(bot, update):
         reply_to_message_id=update.message_id,
     )
 
-@Client.on_message(Filters.command(["start"]))
-async def start_text(client, message):
-    await message.reply_sticker(QURAAN_TEXT, quote=True)

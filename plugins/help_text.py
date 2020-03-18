@@ -91,5 +91,5 @@ async def upgrade(bot, update):
         text=Translation.HAMIS_MAJIBU,
         parse_mode="html",
         reply_to_message_id=update.message_id,
-
+        action = "typing"
     )

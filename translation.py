@@ -43,45 +43,5 @@ Kwa Idhini ya Allah Tutakusaidia In Shaa Allah.
 
 Allah Akujaalie Wepesi Katika Mambo yako na Akupe <b>Mwisho Mwema</b> Aamiyn"""
 
-    HAMIS_MAJIBU = """CQACAgQAAxkBAAEEH9NedvOaQ5JLEmSlzvOeCH1yeQToVQACMwADSk4OByb7Dl1pih6hGAQ
-
-Jifunze Au Soma Ibaada Ya <a href='https://telegra.ph/Jihaad-01-24'>Jihaad</a> Kupitia hapa 
-
-
-
-1. <a
-href='https://telegra.ph/Jihaad-Maana-Ya-Jihaad-Na-Kuwekewa-Shariah-01-24'>Jihaad: Maana Ya Jihaad Na Kuwekewa Shari'ah</a>
-
-2. <a
-href='https://telegra.ph/Khawaarij-04-16'>Khawaarij</a>
-
-3. <a
-href='https://telegra.ph/Jihaad-Ni-Waajib-01-24'>Jihaad Ni Waajib</a>
-
-4. <a
-href='https://telegra.ph/Wajibu-Wa-Kuwa-Thabiti-01-24'>Wajibu Wa Kuwa Thabiti</a>
-
-5. <a
-href='https://telegra.ph/Fadhila-Za-Jihaad-01-24'>Fadhila Za Jihaad</a>
-
-6. <a 
-href='https://telegra.ph/Wajibu-Wa-Viongozi-Wa-Jeshi-01-24'>Wajibu Wa Viongozi Wa Jeshi</a>
-
-7. <a
- href='https://telegra.ph/Al-Wahn-01-24'>Al-Wahn</a>
-
-
-8.<a
- href='https://telegra.ph/Ribbiyyuwna-04-26'>ISLAMIC STATE</a>
-
-
-
-<a
-href='https://telegra.ph/KUJITOA-MUHANGA-02-21'>📚 KUJITOA MUHANGA 📖</a>
-
-1. <a
-href='https://telegra.ph/AMALIYAT-ISTISHAHADIYAH--KUJITOA-MUHANGA--KWA-MUJIBU-WA-QURAN--SUNNAH--NA-KAULI-MBALI-MBALI-ZA-WANACHUONI-02-21'>A'MALIYAT ISTISHAHADIYAH ( KUJITOA MUHANGA ) KWA MUJIBU WA QUR'AN , SUNNAH , NA KAULI MBALI MBALI ZA WANACHUONI</a>
-
-2. <a
-href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHARTI ZA KUJITOA MUHANGA :</a>"""
+    HAMIS_MAJIBU = "CQACAgQAAxkBAAEEH9NedvOaQ5JLEmSlzvOeCH1yeQToVQACMwADSk4OByb7Dl1pih6hGAQ"
 

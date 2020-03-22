@@ -43,7 +43,9 @@ Kwa Idhini ya Allah Tutakusaidia In Shaa Allah.
 
 Allah Akujaalie Wepesi Katika Mambo yako na Akupe <b>Mwisho Mwema</b> Aamiyn"""
 
-    HAMIS_MAJIBU = """Jifunze Au Soma Ibaada Ya <a href='https://telegra.ph/Jihaad-01-24'>Jihaad</a> Kupitia hapa 
+    HAMIS_MAJIBU = """CQACAgQAAxkBAAEEH9NedvOaQ5JLEmSlzvOeCH1yeQToVQACMwADSk4OByb7Dl1pih6hGAQ
+
+Jifunze Au Soma Ibaada Ya <a href='https://telegra.ph/Jihaad-01-24'>Jihaad</a> Kupitia hapa 
 
 
 

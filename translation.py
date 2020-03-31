@@ -86,3 +86,4 @@ href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHA
 
 <b>Assalaam Aleykum Warahmatullah Wabarakaatuh</b>"""
     KITABU_KITUKUFU = "Habari TZ 🇹🇿\nSwahili News\nhttps://t.me/HabariTz"
+    QURAN_TUKUFU = "https://telegra.ph/Tarjama-Ya-Maana-Ya-AL-QUR-AAN-AL-ADHWIYM-01-26"

@@ -86,36 +86,15 @@ href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHA
 
 <b>Assalaam Aleykum Warahmatullah Wabarakaatuh</b>"""
     KITABU_KITUKUFU = "Habari TZ 🇹🇿\nSwahili News\nhttps://t.me/HabariTz"
-    QURAN_TUKUFU = """*Juzuu zote 30* 
-[Juzuu 1](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-1-na-2/)
+    QURAN_TUKUFU = """<i>Juzuu zote 30</i>
+ 
+[Juzuu 1](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-1-na-2/)  [Juzuu 2](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-3-na-4/)  [Juzuu 3](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-5-na-6/)
 
-[Juzuu 2](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-3-na-4/)
+[Juzuu 4](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-7-na-8/)  [Juzuu 5](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-9-na-10/)  [Juzuu 6](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-11-na-12/)  [Juzuu 7](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-13-na-14/)
 
-[Juzuu 3](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-5-na-6/)
+[Juzuu 8](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-15-na-16/)  [Juzuu 9](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-17-na-18/)  [Juzuu 10](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-19-na-20/)  [Juzuu 11](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-21-na-22/)  [Juzuu 12](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-23-na-24/)
 
-[Juzuu 4](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-7-na-8/)
-
-[Juzuu 5](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-9-na-10/)
-
-[Juzuu 6](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-11-na-12/)
-
-[Juzuu 7](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-13-na-14/)
-
-[Juzuu 8](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-15-na-16/)
-
-[Juzuu 9](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-17-na-18/)
-
-[Juzuu 10](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-19-na-20/)
-
-[Juzuu 11](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-21-na-22/)
-
-[Juzuu 12](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-23-na-24/)
-
-[Juzuu 13](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-25-na-26/)
-
-[Juzuu 14](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-27-na-28/)
-
-[Juzuu 15](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-29-na-30/)
+[Juzuu 13](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-25-na-26/)  [Juzuu 14](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-27-na-28/)  [Juzuu 15](https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-29-na-30/)
 """
 
 

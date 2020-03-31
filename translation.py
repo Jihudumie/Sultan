@@ -86,4 +86,37 @@ href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHA
 
 <b>Assalaam Aleykum Warahmatullah Wabarakaatuh</b>"""
     KITABU_KITUKUFU = "Habari TZ 🇹🇿\nSwahili News\nhttps://t.me/HabariTz"
-    QURAN_TUKUFU = "https://telegra.ph/Tarjama-Ya-Maana-Ya-AL-QUR-AAN-AL-ADHWIYM-01-26"
+    QURAN_TUKUFU = """*Juzuu zote 30* 
+[Juzuu 1]()
+
+[Juzuu 2]()
+
+[Juzuu 3]()
+
+[Juzuu 4]()
+
+[Juzuu 5]()
+
+[Juzuu 6]()
+
+[Juzuu 7]()
+
+[Juzuu 8]()
+
+[Juzuu 9]()
+
+[Juzuu 10]()
+
+[Juzuu 11]()
+
+[Juzuu 12]()
+
+[Juzuu 13]()
+
+[Juzuu 14]()
+
+[Juzuu 15]()
+"""
+
+
+

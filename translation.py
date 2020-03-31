@@ -85,3 +85,6 @@ href='https://telegra.ph/AMALIYAT-ISTISHAHADIYAH--KUJITOA-MUHANGA--KWA-MUJIBU-WA
 href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHARTI ZA KUJITOA MUHANGA :</a>
 
 <b>Assalaam Aleykum Warahmatullah Wabarakaatuh</b>"""
+    KITABU_KITUKUFU = "Habari TZ 🇹🇿
+Swahili News
+https://t.me/HabariTz"

@@ -45,3 +45,4 @@ Allah Akujaalie Wepesi Katika Mambo yako na Akupe <b>Mwisho Mwema</b> Aamiyn"""
 
     HAMIS_MAJIBU = "CQACAgQAAxkBAAEEH9NedvOaQ5JLEmSlzvOeCH1yeQToVQACMwADSk4OByb7Dl1pih6hGAQ"
 
+   QURAN_TEXT = "https://telegra.ph/Tarjama-Ya-Qur-aan-01-24"

@@ -103,3 +103,13 @@ async def kitabu_kitukufu(bot, update):
         reply_to_message_id=update.message_id
     )
 
+
+@pyrogram.Client.on_message(pyrogram.Filters.command(["quran"]))
+async def quran_tukufu(bot, update):
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/quran")
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.QURAN_TUKUFU,
+        reply_to_message_id=update.message_id
+    )

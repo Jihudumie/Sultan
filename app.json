@@ -28,7 +28,7 @@
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
-      "value": "eyf2c2c924-e63e-4178-8012-587a0697002b"
+      "value": "239c742e-61b8-42fe-9954-893648468c18"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",

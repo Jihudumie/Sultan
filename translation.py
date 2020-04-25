@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """<u>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ</u>
-       ➠ /Jihaad
+       ➠ /Jihaad 🖲
 <b>JIHAAD</b> imekusanya kila aina ya ibada za kiroho na kiwiliwili, kuikinai dunia, kuihama nchi na kuyahama matamanio na hii ndiyo maana ikapewa jina la ‘Uchaji Allaah’, kwani imekuja katika Hadiyth kuwa:
 
 <b>‘Ucha Mungu wa umma wangu ni Jihaad katika njia ya Allaah.”</b>
@@ -28,8 +28,8 @@ href='https://telegra.ph/i-love-islam-01-24'>I LOVE ISLAM</a>
 Kama una Hitaji Kusoma Au Kusiliza Qur'an Tukufu.
 ❖ @Furqanbot
 
-Kwa Darsa Mbali Mbali. 
-Txt 📄, Audio 🎧, Video & File N.k.
+<u>Kwa Darsa Mbali Mbali. 
+Txt 📄, Audio 🎧, Video & File N.k.</u>
 ❖ @Hamisbot
 
 Kuongea Nasi Au Viongozi Tuandikie ✍.

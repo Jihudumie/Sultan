@@ -1,5 +1,6 @@
 class Translation(object):
-    START_TEXT = """بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+    START_TEXT = """<u>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ</u>
+       ➠ /Jihaad
 <b>JIHAAD</b> imekusanya kila aina ya ibada za kiroho na kiwiliwili, kuikinai dunia, kuihama nchi na kuyahama matamanio na hii ndiyo maana ikapewa jina la ‘Uchaji Allaah’, kwani imekuja katika Hadiyth kuwa:
 
 <b>‘Ucha Mungu wa umma wangu ni Jihaad katika njia ya Allaah.”</b>
@@ -19,13 +20,6 @@ Hayo  Na Mengine Allah Atakuonyesha Hapa ➠ /hamis au ➠ /jihaad:
 
 Kwa elimu zaidi  
 ➠ @KhamisBot"""  
-    UPGRADE_TEXT = "Tutafanya Mabolesho In Shaa Allaah."
-    CURENT_PLAN_DETAILS = """Current plan details
-    
---------
-Telegram 🆔: <code>{}</code>
-Jiunge Nasi : 
-🖲 ➠ @HamisboBot"""
     HELP_USER = """<b>Hapa ni sehemu ya Msaada</b>
 
 🖲 <a
@@ -84,4 +78,4 @@ href='https://telegra.ph/AMALIYAT-ISTISHAHADIYAH--KUJITOA-MUHANGA--KWA-MUJIBU-WA
 2. <a
 href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHARTI ZA KUJITOA MUHANGA :</a>
 
-<b>Assalaam Aleykum Warahmatullah Wabarakaatuh</b>"""
+<b><i><u>MWISHO</u></i></b>"""

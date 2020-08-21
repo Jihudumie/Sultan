@@ -79,3 +79,4 @@ href='https://telegra.ph/AMALIYAT-ISTISHAHADIYAH--KUJITOA-MUHANGA--KWA-MUJIBU-WA
 href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHARTI ZA KUJITOA MUHANGA :</a>
 
 <b><i><u>MWISHO</u></i></b>"""
+    WAKWELI = "https://t.me/KGposbot"

@@ -80,3 +80,4 @@ href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHA
 
 <b><i><u>MWISHO</u></i></b>"""
     WAKWELI = "https://t.me/KGposbot"
+    ALISWOD = "https://t.me/achia_bot"
